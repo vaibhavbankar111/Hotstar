@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: hotsta-app
-        image: vaibhavbankar/hoster-project:10
+        image: vaibhavbankar/hoster-project:11
         ports:
         - containerPort: 3000  # Port your application listens on
 
